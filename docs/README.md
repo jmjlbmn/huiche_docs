@@ -19,7 +19,7 @@ footer: Apache Licensed | Copyright © 2018-present Jmjlbmn
     <parent>
         <groupId>org.huiche</groupId>
         <artifactId>huiche</artifactId>
-        <version>1.1.2</version>
+        <version>1.1.3</version>
     </parent>
     <dependencies>
         <dependency>

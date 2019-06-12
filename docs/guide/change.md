@@ -1,5 +1,9 @@
 # 更新历史
 huiche的版本会参照`MajorVersion.MinorVersion.Revision(主要版本.次要版本.修订版本)` 风格进行版本发布,但前期可能仅会变更`Revision`(包括新增功能的版本),后续有规范的打算
+## 1.1.3 <span style="font-size:0.6em;">2019-06-12</span>
+- 更新: spring-boot 2.1.5.RELEASE
+- 更新: druid 1.1.17
+- 修复: 部分update方法不更新修改时间`modifyTime`问题
 ## 1.1.2 <span style="font-size:0.6em;">2019-03-14</span>
 - 更新: spring-boot 2.1.3.RELEASE
 - 更新: druid 1.1.14

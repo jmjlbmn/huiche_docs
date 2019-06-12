@@ -35,7 +35,7 @@ module.exports = {
       },
       {
         text: "更新历史",
-        link: "http://huiche.org/guide/change.html"
+        link: "https://huiche.org/guide/change.html"
       },
       {
         text: "JavaDoc",
