@@ -1,5 +1,5 @@
 # 更新历史
-## 1.2.0 <span style="font-size:0.6em;">2019-06-12</span>
+## 1.2.0 <span style="font-size:0.6em;">2019-06-19</span>
 - 更新: spring-boot 2.1.6.RELEASE
 - 新增: 分页查询`page`方法增加2个排序重载
 - 调整: 拆分`getColumn`,`getColumns`,`listColumn`,`listColumns`,`pageColumns`方法为`原方法`和增加`Ext`后缀的方法,`原方法`只允许传入字段,`Ext`方法允许字段再进行操作,如起别名或计算等操作
