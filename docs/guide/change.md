@@ -1,5 +1,8 @@
 # 更新历史
-huiche的版本会参照`MajorVersion.MinorVersion.Revision(主要版本.次要版本.修订版本)` 风格进行版本发布,但前期可能仅会变更`Revision`(包括新增功能的版本),后续有规范的打算
+## 1.2.0 <span style="font-size:0.6em;">2019-06-12</span>
+- 更新: spring-boot 2.1.6.RELEASE
+- 新增: 分页查询`page`方法增加2个排序重载
+- 调整: 拆分`getColumn`,`getColumns`,`listColumn`,`listColumns`,`pageColumns`方法为`原方法`和增加`Ext`后缀的方法,`原方法`只允许传入字段,`Ext`方法允许字段再进行操作,如起别名或计算等操作
 ## 1.1.3 <span style="font-size:0.6em;">2019-06-12</span>
 - 更新: spring-boot 2.1.5.RELEASE
 - 更新: druid 1.1.17
