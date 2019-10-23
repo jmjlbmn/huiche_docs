@@ -1,4 +1,9 @@
 # 更新历史
+## 1.3.0 <span style="font-size:0.6em;">2019-10-23</span>
+- 更新: spring-boot 2.2.0.RELEASE
+- 更新: druid 1.1.20
+- 调整: 调整部分 `javax` 的 `validation` , `serlevt` , `annotation` , `inject` 依赖到 `jakarta` 下
+- 调整: SimpleView的json的默认编码为 `application/json` , 原为 `application/json;charset=UTF-8` 
 ## 1.2.0 <span style="font-size:0.6em;">2019-06-19</span>
 - 更新: spring-boot 2.1.6.RELEASE
 - 新增: 分页查询`page`方法增加2个排序重载
