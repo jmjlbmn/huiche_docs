@@ -1,4 +1,10 @@
 # 更新历史
+## 1.3.2 <span style="font-size:0.6em;">2020-03-01</span>
+- 更新: spring-boot 2.2.5.RELEASE
+- 更新: querydsl 4.2.2
+- 更新: druid 1.1.21
+- 调整: 调整部分 `update` 方法,如果传入更新对象有`id`,会把`id`当作更新条件
+- 调整: Service方法去掉默认事务声明
 ## 1.3.0 <span style="font-size:0.6em;">2019-10-23</span>
 - 更新: spring-boot 2.2.0.RELEASE
 - 更新: druid 1.1.20
