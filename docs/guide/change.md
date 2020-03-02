@@ -1,5 +1,5 @@
 # 更新历史
-## 1.3.2 <span style="font-size:0.6em;">2020-03-01</span>
+## 1.3.3 <span style="font-size:0.6em;">2020-03-02</span>
 - 更新: spring-boot 2.2.5.RELEASE
 - 更新: querydsl 4.2.2
 - 更新: druid 1.1.21
