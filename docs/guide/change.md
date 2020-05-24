@@ -1,4 +1,9 @@
 # 更新历史
+## 1.3.5 <span style="font-size:0.6em;">2020-05-24</span>
+- 更新: spring-boot 2.3.0.RELEASE
+- 更新: querydsl 4.3.1
+- 更新: druid 1.1.22
+- 调整: 增加`spring-boot-starter-validation`以匹配`spring-boot 2.3.0`
 ## 1.3.3 <span style="font-size:0.6em;">2020-03-02</span>
 - 更新: spring-boot 2.2.5.RELEASE
 - 更新: querydsl 4.2.2
