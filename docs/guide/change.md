@@ -1,4 +1,7 @@
 # 更新历史
+## 1.3.6 <span style="font-size:0.6em;">2020-05-24</span>
+- 更新: spring-boot 2.3.1.RELEASE
+- 更新: guava 29.0-jre
 ## 1.3.5 <span style="font-size:0.6em;">2020-05-24</span>
 - 更新: spring-boot 2.3.0.RELEASE
 - 更新: querydsl 4.3.1
